@@ -6,6 +6,8 @@ This bot uses Selenium (for ease of use) to scrape real-time bus traffic informa
 
 This project is a significant improvement over V1, which dates back to November 2022.
 
+This program includes scraping, text processing of information, layout (in an image in Instagram storie format) and publication.
+
 ## Important information ⚠️:
 
 The current code contains significant imperfections, with considerable room for improvement (notably through the use of requests). This second version was coded in one evening.
