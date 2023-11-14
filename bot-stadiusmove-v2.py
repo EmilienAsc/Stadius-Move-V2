@@ -10,6 +10,7 @@ import csv
 from instagrapi import Client
 
 # --------------------------------------------- Base ---------------------------------------------
+
 chrome_options = webdriver.ChromeOptions()
 custom_user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/90.0.2"
 chrome_options.add_argument(f"user-agent={custom_user_agent}")
@@ -21,6 +22,7 @@ chrome_options.add_argument("--no-sandbox")
 driver = webdriver.Chrome(options=chrome_options)
 
 # --------------------------------------------- Initialize the client ---------------------------------------------
+
 USERNAME = ""
 PASSWORD = ""
 
