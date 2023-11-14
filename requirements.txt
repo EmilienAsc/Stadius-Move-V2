@@ -1,0 +1,6 @@
+Requirements :
+
+pip install instagrapi
+pip install csv
+pip install selenium
+pip install re
