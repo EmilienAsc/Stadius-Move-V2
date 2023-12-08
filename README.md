@@ -11,4 +11,4 @@ This program includes scraping, text processing of information, layout (in an im
 ## Important information ⚠️:
 
 The current code contains significant imperfections, with considerable room for improvement (notably through the use of requests). This second version was coded in one evening.
-In addition, the instagrapi librairy is not official and may cause problems with instagram.
+In addition, the instagrapi librairy is not official and may cause problems with Instagram.
